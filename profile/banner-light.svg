@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <rect width="900" height="200" fill="#f4f6f8"/>
+  <rect x="0" y="0" width="4" height="200" fill="#1a8a7a"/>
+  <text x="40" y="72" font-family="system-ui,-apple-system,sans-serif" font-size="32" font-weight="800" fill="#1e272e">JAY TECH SOLUTIONS</text>
+  <text x="40" y="102" font-family="system-ui,-apple-system,sans-serif" font-size="15" fill="#4a5568">Building India's next-gen business software</text>
+  <text x="40" y="135" font-family="system-ui,-apple-system,sans-serif" font-size="13" fill="#6b7a85">Founded by Aswin Jay · 7+ Products · 50,000+ Users · Udyam MSME</text>
+  <rect x="40" y="155" width="80" height="28" rx="14" fill="#1a8a7a"/>
+  <text x="80" y="174" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">Explore</text>
+  <g transform="translate(680, 40)">
+    <rect width="180" height="120" rx="12" fill="#ffffff" stroke="#e4e7eb" stroke-width="1"/>
+    <text x="90" y="35" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7a85" text-anchor="middle">PROJECTS</text>
+    <text x="90" y="58" font-family="system-ui,-apple-system,sans-serif" font-size="20" font-weight="800" fill="#1a8a7a" text-anchor="middle">9</text>
+    <text x="90" y="76" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7a85" text-anchor="middle">Open Source Repos</text>
+    <text x="90" y="100" font-family="system-ui,-apple-system,sans-serif" font-size="20" font-weight="800" fill="#1a8a7a" text-anchor="middle">50K+</text>
+    <text x="90" y="118" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7a85" text-anchor="middle">Active Users</text>
+  </g>
+</svg>
