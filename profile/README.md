@@ -11,7 +11,7 @@
 
 ---
 
-Building India's next-gen business software. Founded by **Aswin Jay** at 15 — now serving 50,000+ users across India with a suite of 7+ products.
+Building India's next-gen business software. Founded by **Aswin Jay** at 15 — now serving 50,000+ users across India with a suite of 11+ products.
 
 ## Our Projects
 
@@ -69,6 +69,21 @@ Python/PyQt5 desktop invoicing system. Generate, send, and track invoices.
 ![GitHub](https://img.shields.io/github/license/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)
 
 Windows-like desktop simulator in C using Win32 API. GDI rendering, taskbar, start menu.
+
+### [VAANJAY](https://github.com/jayaswinjay-web/vaanjay) — Social Media Super-App
+![GitHub](https://img.shields.io/github/license/jayaswinjay-web/vaanjay?style=flat&color=1a8a7a)
+
+Tamil Nadu social media super-app combining Instagram, WhatsApp, Facebook, Twitter, WeChat, and Reddit. Built with Go (Fiber), React Native (Expo), Next.js 14, WebRTC, PostgreSQL, and Redis. Features reels, stories, live streams, DMs, group chats, audio/video calls, Tamil calendar, festival mode, and UPI payments.
+
+### [JayVibez](https://github.com/jayaswinjay-web/jayvibez) — Music Player
+![GitHub](https://img.shields.io/github/license/jayaswinjay-web/jayvibez?style=flat&color=1a8a7a)
+
+Desktop music player with local library scanning, YouTube search & streaming, playlist management, and album art. Built with C# .NET 8 WPF, NAudio, YoutubeExplode, and TagLibSharp. Also available as an Android APK.
+
+### [JAY LMS](https://github.com/jayaswinjay-web/jay-lms) — Learning Management System
+![GitHub](https://img.shields.io/github/license/jayaswinjay-web/jay-lms?style=flat&color=1a8a7a)
+
+Comprehensive Learning Management System for managing courses, students, assessments, and educational content delivery.
 
 ---
 
